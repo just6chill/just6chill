@@ -6,4 +6,4 @@ i am a C beginner and my second hobby is AOSP dev :)
 
 My biggest repo:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=just6chill&repo=hdir)](https://github.com/just6chill/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=just6chill&repo=hdir)](https://github.com/just6chill/hdir)
