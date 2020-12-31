@@ -1,6 +1,6 @@
 Hey,
 i am just6chill from germany.
-i am a beginner learning C at my freetime and love AOSP dev to.
+i am a C beginner and my second hobby is AOSP dev :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just6chill)](https://github.com/just6chill/github-readme-stats)
 
