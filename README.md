@@ -1,6 +1,16 @@
 Hey,
 i am just6chill from germany.
-i am a C beginner and my second hobby is AOSP dev :)
+i am a 16 yo boy whos dream is to be a low level dev 😊
+
+
+* currently working on something cool 😎
+
+* currently i am learning assembly x86 (nasm) and the C programming language
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+**my website:**
+https://chill-coding.github.io/
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
