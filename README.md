@@ -9,10 +9,6 @@ i am a 16 yo boy whos dream is to be a low level dev 😊
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-**my website:**
-https://chill-coding.github.io/
-
---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just6chill)](https://github.com/just6chill)
 
