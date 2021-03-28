@@ -2,17 +2,22 @@ Hey,
 i am just6chill from germany.
 i am a 16 yo boy whos dream is to be a low level dev 😊
 
+---
 
-* currently working on something cool 😎
+My most recent project:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=just6chill&repo=HARDBRICK)](https://github.com/just6chill/HARDBRICK)
+
+---
 
 * currently i am learning assembly x86 (nasm) and the C programming language
 
--------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just6chill)](https://github.com/just6chill)
 
---------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 My biggest repo:
 
