@@ -25,3 +25,8 @@ My biggest repo:
 ![GitHub all releases](https://img.shields.io/github/downloads/just6chill/hdir/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/just6chill/hdir)
 ![GitHub top language](https://img.shields.io/github/languages/top/just6chill/hdir)
+
+Programming Languages:
+
+![c](https://github.com/just6chill/just6chill/blob/main/icons/c_32x32.png)
+![ASM](https://github.com/just6chill/just6chill/blob/main/icons/output-onlinepngtools.png)
