@@ -3,7 +3,12 @@ i am just6chill from germany.
 i am a 16 yo boy whos dream is to be a low level dev 😊
 
 
-* currently i am learning assembly x86 (nasm) and the C programming language
+skills:
+
+* C
+* basic Assembly x86
+
+currently learning C++
 
 ---
 
