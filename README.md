@@ -1,6 +1,6 @@
 Hey,
 i am just6chill from germany.
-i am a 16 yo boy whos dream is to be a low level dev 😊
+i am a 17 yo boy whos dream is to be a low level dev 😊
 
 
 skills:
